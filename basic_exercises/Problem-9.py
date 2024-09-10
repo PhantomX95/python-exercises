@@ -16,6 +16,7 @@
 
 
 def perform_operation ():
+    """Simple Calculator with operator(+, -, *, /)"""
     while True:
         try:
 

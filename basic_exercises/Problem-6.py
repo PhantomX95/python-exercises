@@ -24,6 +24,9 @@
 
 
 def is_password_valid(password):
+    """Ensure the password between 6 and 24 characters long,
+    contains at least one uppercase letter, one lowercase letter,
+    one symbol and one digit or show invalid password"""
     
     # Define symbol set
     symbols = set('!"#$%&\'()*+,-./:;<=>?@[\\]^_`{|}~')

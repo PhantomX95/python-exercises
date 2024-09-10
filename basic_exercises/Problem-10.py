@@ -12,6 +12,7 @@
 
 
 def even_odd_square():
+    """Take number from user and display if even or odd and diplay the square of it"""
     while True:    
         try:
             user_num = int(input("Please Enter A Number: "))

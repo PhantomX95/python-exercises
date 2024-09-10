@@ -17,6 +17,7 @@
 
 
 def get_numbers():
+    """Append 6 user input numbers into tuple"""
     numbers = []
     for i in range(6):
         while True:  # Loop until a valid number is entered
