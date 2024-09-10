@@ -8,8 +8,8 @@
 # 03: Calculate the total, average and percentage.
 # 04: print the results.
 
-# create a function that take subject and make sure the mark is in 0 to 100
 def get_mark (subject):
+    """create a function that take subject and make sure the mark is in 0 to 100"""
     while True:
         try:
             mark = int(input(f"Please Enter The {subject} Mark: "))
