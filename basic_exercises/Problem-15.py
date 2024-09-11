@@ -13,6 +13,8 @@
 #           - Show the user error if the input is not an integer.
 #           - In variable store the steps value from user.
 #       - Loop from the user input assign range (start, end, step) and print the result on the same line.
+#           - If the user step >= 0 make the end + 1 for the ascending result.
+#           - If the user step < 0 make the end - 1 for descending result.
 # 02: Call the function.
 
 
@@ -52,8 +54,12 @@ def user_generate_numbers ():
 
     
     # Generate the user specified numbers in the same line
-    for i in range(user_start, user_end + 1, user_step):
-        print(i, end="  ")
+    if user_step >= 0:
+        for i in range(user_start, user_end + 1, user_step):
+            print(i, end=", ")
+    elif user_step < 0:
+        for i in range(user_start, user_end - 1, user_step):
+            print(i, end=", ")
 
 
 user_generate_numbers()
