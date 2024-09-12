@@ -1,4 +1,4 @@
-# Python 300+ Exercises Repository
+# Python Exercises Repository
 This repository contains over 300 Python exercises aimed at helping you enhance your programming skills through hands-on practice. The exercises range from simple to advanced, covering key areas of Python programming. Whether you're just starting or looking to deepen your expertise, these challenges will guide you through various problem-solving and algorithm development levels.
 
 Exercise Categories
