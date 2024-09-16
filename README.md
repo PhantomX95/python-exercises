@@ -2,8 +2,8 @@
 This repository contains over 300 Python exercises aimed at helping you enhance your programming skills through hands-on practice. The exercises range from simple to advanced, covering key areas of Python programming. Whether you're just starting or looking to deepen your expertise, these challenges will guide you through various problem-solving and algorithm development levels.
 
 Exercise Categories
-* 100+ Simple Problems: Designed for beginners, focusing on fundamental concepts such as data types, loops, and basic operations.
-* 100+ Intermediate Problems: These exercises introduce more complexity, including functions, file handling, and object-oriented programming.
+* Exercise < 20 Simple Problems: Designed for beginners, focusing on fundamental concepts such as data types, loops, and basic operations.
+* Exersice > 20 Intermediate Problems: These exercises introduce more complexity, including functions, file handling, and object-oriented programming.
 * 100+ Complex Problems: Advanced challenges for seasoned programmers, dealing with topics like regular expressions, APIs, and Python libraries like NumPy and Pandas.
 Topics Covered
 * Data Structures: Lists, tuples, dictionaries, sets
