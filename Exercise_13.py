@@ -57,4 +57,3 @@ while True:
     # Handle cases where the user input is not a valid number
     except ValueError:
         print("Error! Please enter a valid numeric value.")
-
