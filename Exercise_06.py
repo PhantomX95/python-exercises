@@ -58,4 +58,3 @@ if is_password_valid(password):
     print("Password valid")
 else:
     print("Password invalid. Ensure it is between 6 and 24 characters long, contains at least one uppercase letter, one lowercase letter, one symbol and one digit.")
-
