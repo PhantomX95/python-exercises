@@ -13,3 +13,4 @@ for num in range(1, 6): # Generate Numbers 1 to 5 in loop
     square = num ** 2 # square = number * number
     cube = num ** 3 # cube = number * number * number
     print(f"{num}\t\t{square}\t\t{cube}")
+    
