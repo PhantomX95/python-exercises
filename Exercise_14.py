@@ -11,3 +11,4 @@ print("The Number:\t\tThe Square:\t\tThe Cube:\t\t(Square + Cube)")
 
 for num in reversed(range(11)):
     print(f"{num}\t\t\t{num ** 2}\t\t\t{num ** 3}\t\t\t{(num ** 2) + (num ** 3)}")
+
