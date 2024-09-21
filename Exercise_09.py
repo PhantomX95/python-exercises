@@ -66,6 +66,3 @@ def perform_operation ():
 
 # Call the function and print the result
 print(perform_operation())
-
-
-
