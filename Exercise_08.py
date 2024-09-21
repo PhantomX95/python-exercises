@@ -45,6 +45,5 @@ for number in a:
     if number < min_number:
         min_number = number
 
-
 print(f"The Maximum Number Is {max_number}: ")
 print(f"The Minimum Number Is {min_number}: ")
