@@ -36,5 +36,3 @@ numbers_tuple = get_numbers()
 # Print the tuple and the sum
 print(f"The tuple numbers: {numbers_tuple}")
 print(f"The sum of the numbers: {sum(numbers_tuple)}")
-
-
