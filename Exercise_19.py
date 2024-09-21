@@ -90,7 +90,6 @@ try:
 except Exception :
     print(f"An error occurred.")
 
-
 try:
     while True:
         password = input("Please Enter a Password Must Contain At Least One Special Character, One Uppercase Letter, One Lowercase Letter, And One Number: ")
