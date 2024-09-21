@@ -29,5 +29,3 @@ def even_odd_square():
 
 # Print the function
 print(even_odd_square())
-
-
