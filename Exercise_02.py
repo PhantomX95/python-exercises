@@ -14,3 +14,4 @@ try:
         print("Congrats, Your mark allows you to join our college")
 except ValueError:
     print("Wrong input! Please Enter Only Your Mark")
+    
