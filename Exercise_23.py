@@ -5,7 +5,7 @@
 
 from datetime import datetime
 
-class LibrarySystem():
+class LibrarySystem:
     def __init__(self):
         self.available_books = []   # List to store available books
         self.borrowed_books = {}    # Dictionary to track the borrowed books and the borrowers
