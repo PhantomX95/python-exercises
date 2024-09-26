@@ -18,7 +18,7 @@
 
 
 
-class Students_Grades():
+class Students_Grades:
     def __init__(self):
         # Initialize data structures for students and grades
         self.Students = {}
